@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "jquery": "^3.5.1",
-    "mongodb": "^3.6.4",
+    "mongodb": "^3.6.10",
     "morgan": "^1.10.0",
     "mssql": "^6.3.1",
     "mysql": "^2.18.1",
